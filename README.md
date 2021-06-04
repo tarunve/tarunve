@@ -1,6 +1,6 @@
 # Hi There , [How's it?](https://tarun-verma.web.app) 👋
 
-## Software Professional & Code Enthusiast  <img alt="fs" width="40px"  height="40px" src="./images/fullstack.png" />
+## Software Professional & Code Enthusiast  <img alt="fs" width="30px" src="./images/fullstack.png" />
 
 - 💬 I want to talk and learn about latest technologies anytime.
 - 🧑‍💻 Currently working with an IT company.
