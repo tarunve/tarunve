@@ -1,4 +1,4 @@
-# Hi there, I'm Tarun - [How's it](https://tarun-verma.web.com) 👋
+# Hi there, I'm Tarun - [How's it](https://tarun-verma.web.app) 👋
 
 ### Software Professional & Code Enthusiast
 
