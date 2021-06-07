@@ -21,7 +21,7 @@
 [<img align="left" alt="fb" src="./images/facebook.png" width="40px"  height="40px">](https://www.facebook.com/tarun.verma.96/)
 [<img align="left" alt="fb" src="./images/instagram.png" width="40px"  height="40px">](https://www.instagram.com/tarunverma007/)
 [<img align="left" alt="instagram" src="./images/twitter.png" width="40px"  height="40px">](https://twitter.com/TarunVerma151)
-[<img align="left" alt="stackoverflow" src="./images/stackoverflow.png" width="40px"  height="40px">](https://stackoverflow.com/users/12943627/tarun-verma)
+[<img align="left" alt="stackoverflow" src="./images/stackoverflow.png" width="40px"  height="40px">](https://stackoverflow.com/users/12943627/tarun?tab=profile)
 [<img align="left" alt="whatsapp" src="./images/whatsapp.png" width="40px"  height="40px">](https://api.whatsapp.com/send/?phone=919996061888)
 
 <br />
