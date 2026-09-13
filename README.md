@@ -10,9 +10,14 @@
 ---
 <br/>
 
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunve&theme=flag-india&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![QR](./images/QR.png)
-
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunve" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=tarunve" /></td>
+    <td><img src="./images/QR.png" width="150" /></td>
+  </tr>
+</table>
+  
 ---
 
 ### Connect with me:
