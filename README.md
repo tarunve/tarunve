@@ -10,13 +10,7 @@
 ---
 <br/>
 
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunve" /></td>
-    <td><img src="https://streak-stats.demolab.com/?user=tarunve" /></td>
-    <td><img src="./images/QR.png" width="150" /></td>
-  </tr>
-</table>
+![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarunve) ![Github streak](https://streak-stats.demolab.com/?user=tarunve)
   
 ---
 
